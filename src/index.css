@@ -1,0 +1,8 @@
+body {
+  font-family: 'Roboto', sans-serif; /* Apply Roboto font globally */
+  background-color: #f7f7f7; /* Optional: Set the background color for the page */
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
